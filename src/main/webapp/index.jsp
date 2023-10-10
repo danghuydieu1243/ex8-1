@@ -22,6 +22,7 @@
          value="${user.lastName}"><br>
   <label>&nbsp;</label>
   <input type="submit" value="Join Now" class="margin_left">
+  <button><a href="https://personalweb-n28s.onrender.com/home/">Return</a></button>
 </form>
 </body>
 </html>
